@@ -1,5 +1,5 @@
 <?php
-namespace Auth\Acl;
+namespace YYY\YYY;
 
 use Zend\EventManager\AbstractListenerAggregate;
 use Zend\EventManager\EventManagerInterface;
